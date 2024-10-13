@@ -5,12 +5,16 @@ repo: ubiquitous-octo-carnival # The name of this repository
 sites:
   - name: Mailcow
     url: https://mail.grobecker.me
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Hedgedoc
+    url: https://md.grobecker.me
+  - name: Forgejo
+    url: https://git.grobecker.me
+  - name: Seafile
+    url: https://files.grobecker.me
+  - name: ntfy
+    url: https://notify.grobecker.me
+  - name: Bitwarden
+    url: https://vault.grobecker.me
   - name: IPv6 test
     url: forwardemail.net
     port: 80
