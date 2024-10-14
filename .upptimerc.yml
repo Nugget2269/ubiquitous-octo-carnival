@@ -15,6 +15,14 @@ sites:
     url: https://notify.grobecker.me
   - name: Bitwarden
     url: https://vault.grobecker.me
+  - name: Linkwarden
+    url: https://links.grobecker.me
+  - name: Firefly III
+    url: https://firefly.grobecker.me
+  - name: ArchiveBox
+    url: https://archive.grobecker.me
+  - name: Dashy
+    url: https://home.grobecker.me/
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
