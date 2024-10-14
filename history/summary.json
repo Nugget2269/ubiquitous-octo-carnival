@@ -131,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/firefly.grobecker.me.ico",
     "slug": "firefly-iii",
     "status": "down",
-    "uptime": "5.78%",
-    "uptimeDay": "5.78%",
-    "uptimeWeek": "5.78%",
-    "uptimeMonth": "5.78%",
-    "uptimeYear": "5.78%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 405,
     "timeDay": 405,
     "timeWeek": 405,
     "timeMonth": 405,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2024-10-14": 0
+      "2024-10-14": 13
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://archive.grobecker.me",
     "icon": "https://icons.duckduckgo.com/ip3/archive.grobecker.me.ico",
     "slug": "archive-box",
-    "status": "down",
-    "uptime": "5.69%",
-    "uptimeDay": "5.69%",
-    "uptimeWeek": "5.69%",
-    "uptimeMonth": "5.69%",
-    "uptimeYear": "5.69%",
-    "time": 427,
-    "timeDay": 427,
-    "timeWeek": 427,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "status": "up",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
+    "time": 548,
+    "timeDay": 548,
+    "timeWeek": 548,
+    "timeMonth": 548,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2024-10-14": 0
+      "2024-10-14": 13
     }
   },
   {
