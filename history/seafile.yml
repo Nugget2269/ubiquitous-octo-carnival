@@ -1,7 +1,7 @@
 url: https://files.grobecker.me
-status: up
-code: 200
-responseTime: 556
-lastUpdated: 2025-04-10T23:11:43.200Z
+status: down
+code: 502
+responseTime: 626
+lastUpdated: 2025-04-11T20:12:16.575Z
 startTime: 2024-10-13T14:35:09.483Z
 generator: Upptime <https://github.com/upptime/upptime>
